@@ -1,0 +1,2 @@
+G:\Unity Files\Word Game Brackeys\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Unity Files\Word Game Brackeys\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
